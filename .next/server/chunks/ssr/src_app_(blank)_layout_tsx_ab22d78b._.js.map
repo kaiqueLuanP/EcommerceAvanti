@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"sources":["file://C%3A/Users/Orion/Downloads/JavaScript/my-app/src/app/%28blank%29/layout.tsx"],"sourcesContent":["\nexport default function RootLayout({\n  children,\n}: Readonly<{\n  children: React.ReactNode;\n}>) {\n  return children;\n}\n"],"names":[],"mappings":";;;AACe,SAAS,WAAW,EACjC,QAAQ,EAGR;IACA,OAAO;AACT","debugId":null}}]
+}
