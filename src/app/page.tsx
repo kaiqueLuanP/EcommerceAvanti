@@ -13,7 +13,7 @@ export default function Home() {
           {/* Imagem à esquerda */}
           <div className="BannerImage flex-1 flex justify-center">
             <img
-              src="/banner.png"
+              src="/Banner.png"
               alt="Banner"
               className="w-full max-w-xs md:max-w-md h-auto object-contain"
             />
