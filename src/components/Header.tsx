@@ -69,7 +69,9 @@ export default function Header() {
         </div>
         {result && (
           <div className="container mx-auto text-center text-sm text-gray-700 mt-2">
-            Você buscou por: <span className="font-semibold">"{result}"</span>
+            <div>
+              Você buscou por: <span className="font-semibold">&quot;{result}&quot;</span>
+            </div>
           </div>
         )}
       </div>
